@@ -1,0 +1,2 @@
+$var =<>;
+print ("Welcome $var");
